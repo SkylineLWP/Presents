@@ -34,5 +34,23 @@
     "author": "Justin Fincher",
     "createTime": "2018-10-18T16:56:10.875975+08:00",
     "imageName": "054.16159000|-065.60880000|09.9823.jpg"
+  },
+  {
+    "name": "Ecological Station Uruçuí-Una",
+    "lat": "-045.06067000",
+    "lon": "-008.93653000",
+    "zoom": "12.5636",
+    "author": "Justin Fincher",
+    "createTime": "2018-10-18T17:18:10.550341+08:00",
+    "imageName": "-008.93653000|-045.06067000|12.5636.jpg"
+  },
+  {
+    "name": "Le Porge",
+    "lat": "-001.00273800",
+    "lon": "044.90004000",
+    "zoom": "10.6582",
+    "author": "Justin Fincher",
+    "createTime": "2018-10-18T17:18:22.623269+08:00",
+    "imageName": "044.90004000|-001.00273800|10.6582.jpg"
   }
 ]
