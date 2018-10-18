@@ -18,7 +18,7 @@
     "imageName": "031.27591000|032.15894000|09.8947.jpg"
   },
   {
-    "name": null,
+    "name": "The Bahamas",
     "lat": "025.03059000",
     "lon": "-077.09181000",
     "zoom": "10.0954",
@@ -27,12 +27,30 @@
     "imageName": "025.03059000|-077.09181000|10.0954.jpg"
   },
   {
-    "name": null,
+    "name": "Kuwait",
     "lat": "029.62308000",
     "lon": "048.46021000",
     "zoom": "10.4087",
     "author": "Justin Fincher",
     "createTime": "2018-10-18T18:00:26.846825+08:00",
     "imageName": "029.62308000|048.46021000|10.4087.jpg"
+  },
+  {
+    "name": "Parc National Djbel Aissa",
+    "lat": "032.83294000",
+    "lon": "-000.01734163",
+    "zoom": "12.9260",
+    "author": "Justin Fincher",
+    "createTime": "2018-10-18T21:08:39.541322+08:00",
+    "imageName": "032.83294000|-000.01734163|12.9260.jpg"
+  },
+  {
+    "name": "Kolokolovka",
+    "lat": "052.51746000",
+    "lon": "070.36730000",
+    "zoom": "11.5951",
+    "author": "Justin Fincher",
+    "createTime": "2018-10-18T21:11:10.263208+08:00",
+    "imageName": "052.51746000|070.36730000|11.5951.jpg"
   }
 ]
