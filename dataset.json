@@ -1,7 +1,7 @@
 [
   {
     "name": "Glacier Bay National Park and Preserve",
-    "lon": "-137.55000000,058.69000000",
+    "Android.Location.CurrentLocation": "-137.55000000,058.69000000",
     "Android.Location.ZoomLevel": "11.0000",
     "author": "Justin Fincher",
     "createTime": "2018-10-18T17:48:00.280458+08:00",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Toko",
-    "lon": "138.90890000,-022.24368000",
+    "Android.Location.CurrentLocation": "138.90890000,-022.24368000",
     "Android.Location.ZoomLevel": "11.6032",
     "author": "Justin Fincher",
     "createTime": "2018-10-18T22:17:12.971547+08:00",
