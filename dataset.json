@@ -158,5 +158,37 @@
     "createTime": "2019-04-04T11:36:11.122781+08:00",
     "Android.Location.CurrentLocation": "168.97650000,-044.03791000",
     "imageName": "168.97650000|-044.03791000|09.1891.jpg"
+  },
+  {
+    "name": null,
+    "Android.Location.ZoomLevel": "10.9304",
+    "author": "Justin Fincher",
+    "createTime": "2019-04-18T13:16:50.576984+08:00",
+    "Android.Location.CurrentLocation": "042.35523000,047.73967000",
+    "imageName": "042.35523000|047.73967000|10.9304.jpg"
+  },
+  {
+    "name": null,
+    "Android.Location.ZoomLevel": "10.2336",
+    "author": "Justin Fincher",
+    "createTime": "2019-04-18T13:19:05.869218+08:00",
+    "Android.Location.CurrentLocation": "-095.08372000,067.34109000",
+    "imageName": "-095.08372000|067.34109000|10.2336.jpg"
+  },
+  {
+    "name": null,
+    "Android.Location.ZoomLevel": "13.2270",
+    "author": "Justin Fincher",
+    "createTime": "2019-04-18T13:19:34.844574+08:00",
+    "Android.Location.CurrentLocation": "-077.41313000,003.02526500",
+    "imageName": "-077.41313000|003.02526500|13.2270.jpg"
+  },
+  {
+    "name": null,
+    "Android.Location.ZoomLevel": "11.1714",
+    "author": "Justin Fincher",
+    "createTime": "2019-04-18T13:20:55.258+08:00",
+    "Android.Location.CurrentLocation": "-071.48539000,010.93129000",
+    "imageName": "-071.48539000|010.93129000|11.1714.jpg"
   }
 ]
